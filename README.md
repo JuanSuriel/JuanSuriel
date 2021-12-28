@@ -1,18 +1,18 @@
-Hola 👋, Hola, l'M Juan Suriel
-Hola soy Juan Suriel, un desarrollador front-end autodidacta muy apasionado y profesional.
+Hi 👋, Hi, I'm Juan Suriel
+Hi, I'm Juan Suriel, a very passionate and professional self-taught front-end developer.
 
-Mi pasión siempre ha sido el desarrollo de software, pero sobre todo, que tenga un diseño atractivo, que enganche a quien lo utilice y que haga de tu experiencia un recuerdo inolvidable.
+My passion has always been software development, but above all, that it has an attractive design, that hooks whoever uses it and that makes your experience an unforgettable memory.
 
-Si estás interesado en trabajar conmigo o contratarme, puedes ponerte en contacto conmigo a través de mi correo electrónico o mis redes sociales.
+If you are interested in working with me or hiring me, you can contact me through my email or my social networks.
 
-¡Estoy emocionado de que creemos las aplicaciones del futuro!
+I'm excited that we create the apps of the future!
 
-Mi hobby es aprender, mi pasión es agregar valor a quienes me rodean.
+My hobby is learning, my passion is adding value to those around me.
 
-Habilidades: REACT / JS / HTML / CSS / Photoshop
+Skills: REACT / JS / HTML / CSS / Photoshop
 
-🔭 Actualmente estoy trabajando en esta página
-🌱 Actualmente estoy aprendiendo Sobre desarrollo Front-End
-📫 Cómo comunicarse conmigo: surieljuan13@gmail.com
-github dev instagram twitter YouTube
+🔭 I am currently working on this page
+🌱 I am currently learning about Front-End development
+📫 How to contact me: surieljuan13@gmail.com
+
 
